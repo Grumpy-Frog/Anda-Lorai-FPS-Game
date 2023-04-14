@@ -1,1 +1,1 @@
-![My Image](Screen Shots/1.png)
+<img src="/Screen Shots/1.png" alt="Alt text" title="Optional title">
